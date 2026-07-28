@@ -1,39 +1,33 @@
-Markdown
-# Olá! Eu sou o Wesley Alves de Oliveira 👋
+# Wesley Alves de Oliveira
+[wesleyalvesolioveira2009@](wesleyalvesoliveira2009@gmail.com) | (19) 99434-0901 | [linkedin](www.linkedin.com/in/wesley-a-86b9663b2) | [github](https://github.com/wesleyalvesoliveira-cmd)
+Sumaré SP
 
-Sou **Designer Gráfico** apaixonado por criatividade, comunicação visual e por transformar ideias em projetos incríveis e funcionais.
+## objetivo profissional🎯
+Estou cursando o curso técnico de desenvolvidor de sistemas, e tenho como objetivo começar um estágio para aprimorar minha habilidades técnicas na área.
 
-### 👨‍🎨 Sobre mim
+## formação academica🎓
+desenvolvidor de sistemas - senai, sp.
 
-- 🏢 Atualmente estou a trabalhar em/com **[Nome do teu projeto ou empresa atual]**
-- 🌱 No momento estou a aprofundar os meus conhecimentos em **[ex: UI/UX Design, Web Design, Animação]**
-- 👯 Estou à procura de colaborar em **[Projetos criativos, design de interfaces, criação de identidades visuais]**
-- 💬 Pergunta-me sobre **[Design de Identidade Visual, Tipografia, Ilustração]**
-- ⚡ Curiosidade: **[Um hobby ou facto divertido sobre ti]**
+## conhecimentos técnicos👌
+* **html e css**
+* **js(javascript)**
+* **node.js**
+* **markdown**
+* **front-end básico**
 
----
+## projeto desenvolvidos🧩
+1. **ironshape sstore**:
+Uma aplicação front-end responsiva e dinâmica de uma loja virtual de produtos de academia (suplementos, roupas e equipamentos fitness). O projeto foi desenvolvido utilizando tecnologias web fundamentais (HTML5, CSS3 e JavaScript) com foco em componentização limpa, manipulação assíncrona do DOM e controle de versão profissional via Git/GitHub no ambiente VS Code.
+[ironshape sotre](https://github.com/wesleyalvesoliveira-cmd/loja-academia.git)
 
-### 🛠️ Ferramentas e Tecnologias
+## cursos complementares🎓
+Estou cursando um curso de lógica de progamação para desenvolver minhas capacidades técnicas na área, e também estou iniciando um curso de javascript para ampliar minhas habilidades na linguagem.
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## soft skills🎯
+Boa comunicação e colaboração no trabalho em equipe.
 
----
+## idiomas📘
+**Inglês intermediário**
 
-### 📊 As Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TEU_USUARIO&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USUARIO&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="150"/>
-</p>
-
----
-
-### 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-a-86b9663b2)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/teu-perfil)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColo
+## expêriencia profissional
+Nenhuma, estou em busca do meu primeiro estágio.
